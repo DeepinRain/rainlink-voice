@@ -1,6 +1,6 @@
 {
   "name": "rainlink-voice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plugin for using nodelink's voice receiver endpoints",
   "main": "dist/index.js",
   "scripts": {
@@ -12,7 +12,7 @@
   "author": "RainyXeon",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "rainlink": "^0.9.4"
+    "rainlink": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^20.12.11",
